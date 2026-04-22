@@ -1,0 +1,15 @@
+# Ignore only dataset
+Dataset/zomato.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+
+# Other
+*.zip
+.DS_Store
+venv/
+*.egg-info/
